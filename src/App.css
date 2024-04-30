@@ -1,5 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 div {
-  border: 1px solid grey;
+  border: 2px solid blanchedalmond;
+  background-color: rgba(93, 148, 129, 0.682);
+  border-radius: 6px;
   margin: 5px;
   padding: 5px;
 }
+
+#kitchen {
+  background-color: beige;
+}  

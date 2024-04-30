@@ -1,6 +1,6 @@
 const Sink = () => {
   return ( 
-    <div>
+    <div id='sink'>
       Sink
     </div>
   )
